@@ -16,3 +16,5 @@
     - Arithmetic
     - Relational
     - Logical
+    - Bitwise
+    - Assignment
