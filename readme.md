@@ -10,3 +10,9 @@
     - long
     - float
     - wchar_t
+
+
+2. Operators
+    - Arithmetic
+    - Relational
+    - Logical
